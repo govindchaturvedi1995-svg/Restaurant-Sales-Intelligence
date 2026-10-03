@@ -6,7 +6,6 @@ An end-to-end \*\*Data Science and Machine Learning project\*\* for analyzing re
 
 
 
-🔗 \*\*Live Demo:\*\* https://restaurant-sales-intelligence-13.streamlit.app/
 
 
 
