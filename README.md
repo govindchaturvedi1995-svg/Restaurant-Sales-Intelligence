@@ -333,7 +333,7 @@ restaurant-sales-intelligence/
 
 ```bash
 
-git clone https://github.com/4kayasitayashu/restaurant-sales-intelligence.git
+git clone https://github.com/govindchaturvedi1995-svg/Restaurant-Sales-Intelligence
 
 cd restaurant-sales-intelligence
 
@@ -632,36 +632,10 @@ In simple terms:
 > \*\*Understand the past → Analyze the present → Predict the future → Support better business decisions.\*\*
 
 
-
 \---
 
 
 
-\# 👨‍💻 Author
-
-
-
-\*\*Yash Srivastav\*\*
-
-
-
-GitHub: https://github.com/4kayasitayashu
-
-
-
-\---
-
-
-
-\## 🚀 Live Application
-
-
-
-\*\*Restaurant Sales Intelligence Dashboard\*\*
-
-
-
-https://restaurant-sales-intelligence-13.streamlit.app/
 
 
 
